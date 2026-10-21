@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "holoviz",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "978014ce9ed9fccdea47c3a085039d98192b37a1",
+      "parsed_at": "2026-10-21T19:41:34.682543+00:00",
+      "filetree": "filetree/978014ce9ed9fccdea47c3a085039d98192b37a1.nq.gz",
+      "blobs": [
+        "blob/209dbfd7b32aa993ca30ae252a698185dd36c65e.nq.gz",
+        "blob/584bedcad1c11563bbdb7ed2124fb9afa591747c.nq.gz",
+        "blob/8b8182c2028e3fdda0a821295394599d18e28c74.nq.gz",
+        "blob/fd62ef9da98673d9be27a19b3a71bf7dee3c9d76.nq.gz",
+        "blob/9e9661a9aaaf644e1f69089bd6e86be4227de585.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
